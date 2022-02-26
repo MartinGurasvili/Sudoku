@@ -21,12 +21,10 @@
 
 
 
-<br></br>
-<center><h1 align="center" >Simple Design </h1></center>
 <div align="center">
-    <img style="width:50%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/155856328-626acf67-01c1-4d83-923e-6f39ff7340cb.png">
+    <img style="width:50%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/155856784-b2c1d403-c6fc-4a46-b9ec-8edb22d28d25.gif">
+  </div>
 
-</div>
 <br></br>
 <h1 align="center" >Features </h1>
 <br></br>
@@ -42,9 +40,7 @@
    
 <br></br>
 
-<center><h1 align="center" >Demo </h1></center>
-<div align="center">
-    <img style="width:50%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/155856328-626acf67-01c1-4d83-923e-6f39ff7340cb.png">
     
 
-</div>
+
+
