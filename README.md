@@ -14,6 +14,8 @@
     <br>
     <a href="https://github.com/MartinGurasvili/Sudoku/releases/download/v1.0.0/Sudoku.app.zip"><img width="20px" height="20px"   alt="Screenshot 2022-02-17 at 8 12 25 pm" src="https://user-images.githubusercontent.com/76784461/154564937-57c93aa0-69f8-497c-97d6-33b1d7d411e0.png"> <strong>Install Now</strong></a>
     <br />
+    <p><a href="https://github.com/MartinGurasvili/Sudoku/releases/download/v1.0.0w/Sudoku.exe"><strong><img width="20px" height="20px"  alt="win" src="https://pnggrid.com/wp-content/uploads/2021/06/Windows-11-Icon-Logo.png"> Install Now</strong></a>
+    <br></p>
    
     
   </p>
